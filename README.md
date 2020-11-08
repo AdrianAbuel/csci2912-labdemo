@@ -1,1 +1,1 @@
-# csci2912-labdemo1
+# csci2912-labdemo
